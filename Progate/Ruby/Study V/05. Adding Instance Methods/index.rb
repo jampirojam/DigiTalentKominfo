@@ -1,21 +1,8 @@
-class Menu
-  attr_accessor :name
-  attr_accessor :price
-  
-  def initialize(name:, price:)
-    self.name = name
-    self.price = price
-  end
-  
-  def info
-    return "#{self.name} $#{self.price}"
-  end
-  
-  def get_total_price(count)
-    total_price = self.price * count
-    if count >= 3
-      total_price -= 1
-    end
-    return total_price
-  end
-end
+require "./food"
+require "./drink"
+
+food1 = Food.new(name: "Pizza", price: 8)
+food1.calorie = 700
+
+# Print the return value of the calorie_info instance method of the food1 instance
+puts food1.calorie_info
