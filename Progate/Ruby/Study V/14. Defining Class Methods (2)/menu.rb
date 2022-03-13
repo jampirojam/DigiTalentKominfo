@@ -25,6 +25,6 @@ class Menu
   def Menu.discount_day?
     # Return the value of today.sunday?
     today = Date.today
-    puts today.sunday?
+    return today.sunday?
   end
 end
