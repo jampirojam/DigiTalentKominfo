@@ -4,10 +4,12 @@ require "./drink"
 food1 = Food.new(name: "Pizza", price: 8, calorie: 700)
 food2 = Food.new(name: "Sushi", price: 10, calorie: 600)
 
-drink1 = Drink.new(name: "Cola", price: 3)
-drink1.volume = 500
-drink2 = Drink.new(name: "Tea", price: 2)
-drink2.volume = 400
+# drink1 = Drink.new(name: "Cola", price: 3)
+# drink1.volume = 500
+drink1 = Drink.new(name: "Cola", price: 3, volume: 500)
+# drink2 = Drink.new(name: "Tea", price: 2)
+# drink2.volume = 400
+drink2 = Drink.new(name: "Tea", price: 2, volume: 400)
 
 menus = [food1, food2, drink1, drink2]
 
