@@ -205,8 +205,5 @@ footer {
 
 /* Write your code below */
 .menurespon {
-  color:white;
-  font-size:25px;
-  padding:21px 0;
-  float:right;
+  display:none;
 }
