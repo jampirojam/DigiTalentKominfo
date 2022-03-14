@@ -11,7 +11,7 @@
   }
   
   /* Add CSS for <h2> tags inside heading */
-  .top-wraper .container h2 {
+  .top-wrapper .container h2 {
     font-size:20px;
   }
   
@@ -40,13 +40,13 @@
   }
   
   /* Add CSS for <h1> tags inside top-wrapper */
-  .top-wraper .container h1 {
+  .top-wrapper .container h1 {
     font-size:24px;
     line-height:36px;
   }  
   
   /* Add CSS for <p> tags inside top-wrapper */
-  .top-wraper .container p {
+  .top-wrapper .container p {
     font-size:14px;
     line-height:20px;
   }
