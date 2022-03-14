@@ -9,6 +9,10 @@
 @media all and (max-width: 670px) {
   .menurespon {
     display:block;
+    color:white;
+    font-size:25px;
+    padding:21px 0;
+    float:right;
   }
   
   .header-right {
