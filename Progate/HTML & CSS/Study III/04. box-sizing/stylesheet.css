@@ -1,5 +1,7 @@
 /* Apply box-sizing: border-box; to all the elements */
-
+* {
+  box-sizing: border-box;
+}
 
 .container {
   margin: 20px;
@@ -10,7 +12,6 @@
   float: left;
   /* Change the left & right padding to 15px*/
   padding: 0 15px;
-  box-sizing: border-box;
 }
 
 .item-box {
