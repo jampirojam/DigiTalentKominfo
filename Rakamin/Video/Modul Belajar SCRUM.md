@@ -22,3 +22,8 @@ Laman ini berisikan daftar modul belajar tentang Scrum.
 - [Scrum Team](https://youtu.be/VD0z_U4jZzo)
 - [3 Scrum Team Accountabilities](https://youtu.be/3kO-oL9JZA4)
 - [Stakeholders Engagement](https://youtu.be/fndPnA53k5c)
+
+## User Research, Persona, Story and Journey Map
+- [User (Customer) Persona](https://youtu.be/_KysI-rVJi4)
+- [User Journey](https://youtu.be/B8OEAr9g8Ec)
+- [Product Goal](https://youtu.be/X47Zgz-m0kc)
