@@ -17,3 +17,8 @@ Laman ini berisikan daftar modul belajar tentang Scrum.
 - [Lean Thinking](https://youtu.be/kkV8PeHem08)
 - [Scrum Value](https://youtu.be/5yokpooB3wI)
 - [Scrum Framework](https://youtu.be/E0RcvJoR89o)
+
+## Forming Scrum Team and Managing Stakeholder Engagement
+- [Scrum Team](https://youtu.be/VD0z_U4jZzo)
+- [3 Scrum Team Accountabilities](https://youtu.be/3kO-oL9JZA4)
+- [Stakeholders Engagement](https://youtu.be/fndPnA53k5c)
