@@ -76,4 +76,4 @@ Jawabannya adalah [A, B, dan D] karena Stakeholder di sini hanya berperan sebaga
 - C. Scrum adalah framework untuk menghilangkan kompleksitas
 - D. Scrum sama halnya dengan proses traditional namun lebih self-organized sehingga tidak memerlukan Project Manager
 
-Jawabannya [B dan C] karena Scrum yang berguna apabila sedang mengembangkan produk yang kompleks dengan backlog yang sudah ada. Dengan begitu kompleksitas dapat dihilangkan meski terkadang dalam perjalanan ditemukan kompleksitas lainnya.
+Jawabannya [A, C, dan D] karena Scrum yang berguna apabila sedang mengembangkan produk yang kompleks dengan backlog yang sudah ada. Dengan begitu kompleksitas dapat dihilangkan meski terkadang dalam perjalanan ditemukan kompleksitas lainnya.
