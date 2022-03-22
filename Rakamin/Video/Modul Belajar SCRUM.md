@@ -27,3 +27,8 @@ Laman ini berisikan daftar modul belajar tentang Scrum.
 - [User (Customer) Persona](https://youtu.be/_KysI-rVJi4)
 - [User Journey](https://youtu.be/B8OEAr9g8Ec)
 - [Product Goal](https://youtu.be/X47Zgz-m0kc)
+
+## Product Roadmap, MVP and Iteration
+- [Product Roadmap](https://youtu.be/wNbt37y4dHU)
+- [MVP & Iterative Product Development](https://youtu.be/siY7ILfrybA)
+- [Product Backlog Management]()
