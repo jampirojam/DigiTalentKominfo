@@ -32,3 +32,18 @@ Laman ini berisikan daftar modul belajar tentang Scrum.
 - [Product Roadmap](https://youtu.be/wNbt37y4dHU)
 - [MVP & Iterative Product Development](https://youtu.be/siY7ILfrybA)
 - [Product Backlog Management]()
+
+## Product Backlog and Sprint
+- [Sprint Goal](https://youtu.be/8SJg2L88ffg)
+- [Sprint Planning](https://youtu.be/QC8dVh17akk)
+- [Sprint Backlog](https://youtu.be/RknjDL9kTv4)
+
+## Scrum Daily Operations, DoD
+- [Increment (DOD)](https://youtu.be/My64WXUGvLs)
+- [Daily Scrum](https://youtu.be/0uRXS7bygcU)
+- [Sprint Backlog Empiricism (Transparecy, Inspection, Adaptation)](https://youtu.be/5jk-i7ZMbdw)
+
+## 
+- [Flow Empiricis](https://youtu.be/xVYfCCxRlX0)
+- [Kanban Board](https://youtu.be/Fw-_WaZhfuY)
+- [Kanban Practice](https://youtu.be/qm7j7EOKnZw)
