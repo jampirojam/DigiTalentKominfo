@@ -43,7 +43,22 @@ Laman ini berisikan daftar modul belajar tentang Scrum.
 - [Daily Scrum](https://youtu.be/0uRXS7bygcU)
 - [Sprint Backlog Empiricism (Transparecy, Inspection, Adaptation)](https://youtu.be/5jk-i7ZMbdw)
 
-## 
+## Managing flow with Kanban
 - [Flow Empiricis](https://youtu.be/xVYfCCxRlX0)
 - [Kanban Board](https://youtu.be/Fw-_WaZhfuY)
 - [Kanban Practice](https://youtu.be/qm7j7EOKnZw)
+
+## Team Evaluation and Monitoring
+- [Team's dynamic - Tuckman's group development](https://youtu.be/c3VI6xfIiJY)
+- [Handling conflict](https://youtu.be/035wEQ1PvIM)
+- [Team Evaluation](https://youtu.be/OfQfTK9WD40)
+
+## Sprint Review and Retrospective
+- [Sprint review](https://youtu.be/D13fhkbctKE)
+- [Sprint Retrospective](https://youtu.be/A3s8o7zDdbc)
+- [Sprint it self as a heart of scrum](https://youtu.be/m7mtAVgCMh0)
+
+## Being Scrum Master
+- [Scrum Master Accountabilities](https://youtu.be/LjQ--Ww2wv8)
+- [Multiple Hats of Scrum Master](https://youtu.be/HLNFP5NMW00)
+- [Servant Leadership](https://youtu.be/jPV5EgihwIQ)
